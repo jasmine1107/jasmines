@@ -1,1 +1,1 @@
-# jasmines
+This is a exercise project
